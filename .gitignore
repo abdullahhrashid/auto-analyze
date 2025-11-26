@@ -1,0 +1,5 @@
+graph.png
+.env
+__pycache__
+venv
+sakila.db
