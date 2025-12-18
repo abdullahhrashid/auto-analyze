@@ -26,4 +26,4 @@ Inside `db.py`, configure your SQL database connection using **SQLAlchemy**:
 This project utilizes Gemini as it's brain. If you want to use another model, simply change 2 lines of code in the agent files to use the model from the company of your choice.
 
 ### 3. Run the App
-Simply write the command `streamlit run app.py` and ask questions in natural language and get ready insights into your data. The better your LLM provider, the better the results.
+Simply run the command `streamlit run app.py` and ask questions in natural language and get ready insights into your data. The better your LLM provider, the better the results.
